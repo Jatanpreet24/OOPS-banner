@@ -4,7 +4,7 @@
  * Uses a static inner class to encapsulate
  * character-to-pattern mapping for scalable banner rendering.
  *
- * @author Amogh
+ * @author Jatan
  * @version 7.0
  */
 
